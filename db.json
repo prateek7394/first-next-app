@@ -1,0 +1,41 @@
+{
+  "dashboard" : {
+    "posts" : 5,
+    "likes" : 100,
+    "followers" : 20,
+    "followings" : 50
+
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "Article 1",
+      "category": "sports",
+      "description": "des1"
+    },
+    {
+      "id": 2,
+      "title": "Article 2",
+      "category": "politics",
+      "description": "des2"
+    },
+    {
+      "id": 3,
+      "title": "Article 3",
+      "category": "technology",
+      "description": "des3"
+    },
+    {
+      "id": 4,
+      "title": "Article 4",
+      "category": "technology",
+      "description": "des4"
+    },
+    {
+        "id": 5,
+        "title": "Article 5",
+        "category": "sports",
+        "description": "des5"
+      }
+  ]
+}

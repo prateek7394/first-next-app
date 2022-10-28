@@ -1,0 +1,12 @@
+// 1. How is the routing achieved in next.js app?
+
+//      => File-system based routing mechanism
+//      => When a file is added to the pages folder in a project,
+//         by default all the files becomes available as a route.
+
+
+//  2. How is Dynamic routing done in next.js?
+
+//      => Create a .js file with square brackets [xyz]
+//      => import useRouter hook and create a router object
+//      => create pageNumber = router.query.xyz
