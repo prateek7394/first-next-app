@@ -1,6 +1,49 @@
 {
+  "events" : [{
+    "id" : 1,
+    "title" : "Event 1",
+    "description": "description 1",
+    "category" : "sports",
+    "date": "Nov 1"
+  },
+  {
+    "id" : 2,
+    "title" : "Event 2",
+    "description": "description 2",
+    "category" : "technology",
+    "date": "Nov 2"
+  },
+  {
+    "id" : 3,
+    "title" : "Event 3",
+    "description": "description 3",
+    "category" : "dance",
+    "date": "Nov 3"
+  },
+  {
+    "id" : 4,
+    "title" : "Event 4",
+    "description": "description 4",
+    "category" : "drama",
+    "date": "Nov 4"
+  },
+  {
+    "id" : 5,
+    "title" : "Event 5",
+    "description": "description 5",
+    "category" : "music",
+    "date": "Nov 5"
+  },
+  {
+    "id" : 6,
+    "title" : "Event 6",
+    "description": "description 6",
+    "category" : "sports",
+    "date": "Nov 6"
+  }
+],
   "dashboard" : {
-    "posts" : 5,
+    "posts" : 15,
     "likes" : 100,
     "followers" : 20,
     "followings" : 50
